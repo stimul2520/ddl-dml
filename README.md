@@ -138,6 +138,7 @@ customer         | customer_id
 
 ![16](img/16.png)  
 ![17](img/17.png)
+![1fff7](img/TABLE NAME.txt)
 
 ```python
 sudo mysql -u sys_temp -p
