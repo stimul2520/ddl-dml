@@ -111,7 +111,7 @@ source sakila-schema.sql;
 source sakila-data.sql;
 ```
 
-![12](img/11.png)
+![12](img/12.png)
 ![13](img/13.png)
 ![14](img/14.png)
 
@@ -136,6 +136,9 @@ show tables;
 customer         | customer_id
 ```
 
+![16](img/16.png)  
+![17](img/17.png)
+
 ```python
 sudo mysql -u sys_temp -p
 USE sakila;
@@ -143,10 +146,6 @@ show tables;
 describe actor or ...next line;
 SELECT TABLE_NAME, COLUMN_NAME FROM information_schema.KEY_COLUMN_USAGE WHERE table_schema = 'sakila' AND CONSTRAINT_NAME = 'PRIMARY';
 ``` 
-
-```
-![16](img/16.png)  
-![17](img/17.png)
 
 ---
 
