@@ -138,7 +138,7 @@ customer         | customer_id
 
 ![16](img/16.png)  
 ![17](img/17.png)
-![1fff7](img/TABLE NAME.txt)
+[Файл таблицы](https://github.com/stimul2520/ddl-dml/blob/ff615687a48d50118e0702f2c32d7cc5ed2a3b99/img/3000.txt)
 
 ```python
 sudo mysql -u sys_temp -p
